@@ -1,1 +1,4 @@
-
+{
+    "SnowRunner" : "SnowRunner/config.json",
+    "RoadCraft" : "RoadCraft/config.json"
+}
